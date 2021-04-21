@@ -39,3 +39,4 @@ django-queries-results.html
 # Test Project Specific
 /project_files/
 /venv_test_saleor_bk/
+settings/
